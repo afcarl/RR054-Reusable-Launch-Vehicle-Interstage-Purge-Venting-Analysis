@@ -2,7 +2,7 @@
 # Reusable Launch Vehicle Interstage Purge/Venting Analysis using VISSIM:
 # ========================================
 
-## I. InterStege Purge/Venting Analysis Top Level Diagram:
+## I. InterStage Purge/Venting Analysis Top Level Diagram:
 
 ![](./images/image_01.png)
 
